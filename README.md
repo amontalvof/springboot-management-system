@@ -1,4 +1,4 @@
-# REST Management System
+# Management System
 
 ## Technologies
 
